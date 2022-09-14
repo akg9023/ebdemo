@@ -7,6 +7,8 @@
 <title>JSP - Ashish</title>
 </head>
 <body>
-<%= "MY JSP page" %>
+    <h2>
+        <%= "CI/CD in action..... kudos to AWS code pipeline, jenkins and AWS Elastic Beanstalk." %>
+    </h2>
 </body>
 </html>
